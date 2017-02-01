@@ -9,4 +9,5 @@ This Python script using SQLalchemy perform the following queries.
 
 steps to run the application
 1.clone or download the repository.
-2.run python 'puppy.py'
+2.run python 'puppies.py'to create database
+3.run puppyquery.py to perform query operations.
